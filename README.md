@@ -14,5 +14,5 @@ Run: `curl https://raw.githubusercontent.com/cap10morgan/install-1password-linux
 
 This will install the latest release of 1Password for Linux on arm64 to `/opt/1Password`. If there was already an `/opt/1Password` directory, that will be renamed to `/opt/1Password-old`.
 
-You should see 1Password in your desktop environments list of applications now. Or you can run it directly via something like: `/opt/1Password/1password`.
+You should see 1Password in your desktop environments list of applications now. Or you can run it directly via: `/opt/1Password/1password`.
 
